@@ -1,8 +1,6 @@
 MyCurses
 ========
 
-Chrome extension that replaces occurrences of 'myCourses' with 'myCurses'
-
 [Direct download of crx file](https://github.com/fruitiex/myCurses/blob/master/myCurses.crx?raw=true)
 
 Mostly stolen from https://github.com/panicsteve/cloud-to-butt
