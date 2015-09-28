@@ -8,4 +8,4 @@ Chrome extension that replaces occurrences of 'myCourses' with 'myCurses'
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions. Drag myCurses.crx into the page that appears.
