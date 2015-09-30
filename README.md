@@ -8,4 +8,4 @@ Mostly stolen from https://github.com/panicsteve/cloud-to-butt
 Installation
 ------------
 
-In Chrome, choose Window > Extensions. Drag myCurses.crx into the page that appears.
+In Chrome, choose Settings > Extensions. Drag myCurses.crx into the page that appears.
