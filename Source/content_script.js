@@ -28,6 +28,7 @@ function handleText(textNode) {
     var v = textNode.nodeValue;
 
     v = v.replace(/\bMyCourses/g, 'MyCurses');
+    v = v.replace(/\bMy own courses/g, 'My own curses');
     textNode.nodeValue = v;
 }
 
