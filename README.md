@@ -7,8 +7,8 @@ Replaces occurrences of 'MyCourses' with 'MyCurses'.
 
 #### Or:
 
-1. Download the [crx file]((https://github.com/fruitiex/myCurses/blob/master/myCurses.crx?raw=true))
+1. Download the [crx file]((https://github.com/fruitiex/MyCurses-Chrome/blob/master/MyCurses.crx?raw=true))
 
-2. In Chrome, choose Settings > Extensions. Drag myCurses.crx into the page that appears.
+2. In Chrome, choose Settings > Extensions. Drag MyCurses.crx into the page that appears.
 
 Mostly stolen from https://github.com/panicsteve/cloud-to-butt
