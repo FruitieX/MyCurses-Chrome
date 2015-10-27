@@ -1,5 +1,5 @@
-MyCurses
-========
+MyCurses for chrome
+===================
 
 [Direct download of crx file](https://github.com/fruitiex/myCurses/blob/master/myCurses.crx?raw=true)
 
