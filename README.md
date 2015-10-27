@@ -3,7 +3,7 @@ MyCurses for chrome
 
 Replaces occurrences of 'MyCourses' with 'MyCurses'.
 
-Get it on the [Chrome Web Store] (https://chrome.google.com/webstore/detail/mycurses/fjnaaehbgpnnjhcoagkgejgalihioglo)
+**Get it from the [Chrome Web Store] (https://chrome.google.com/webstore/detail/mycurses/fjnaaehbgpnnjhcoagkgejgalihioglo)**
 
 #### Or:
 
