@@ -12,3 +12,5 @@ Replaces occurrences of 'MyCourses' with 'MyCurses'.
 2. In Chrome, choose Settings > Extensions. Drag MyCurses.crx into the page that appears.
 
 Mostly stolen from https://github.com/panicsteve/cloud-to-butt
+
+[Click here for Mozilla version](https://github.com/FruitieX/MyCurses-Mozilla)
