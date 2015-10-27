@@ -1,13 +1,14 @@
 MyCurses for chrome
 ===================
 
-[Direct download of crx file](https://github.com/fruitiex/myCurses/blob/master/myCurses.crx?raw=true)
+Replaces occurrences of 'MyCourses' with 'MyCurses'.
 
-Mostly stolen from https://github.com/panicsteve/cloud-to-butt
+Get it on the [Chrome Web Store] (https://chrome.google.com/webstore/detail/mycurses/fjnaaehbgpnnjhcoagkgejgalihioglo)
 
-Installation
-------------
+#### Or:
 
-1. Download the crx file above.
+1. Download the [crx file]((https://github.com/fruitiex/myCurses/blob/master/myCurses.crx?raw=true))
 
 2. In Chrome, choose Settings > Extensions. Drag myCurses.crx into the page that appears.
+
+Mostly stolen from https://github.com/panicsteve/cloud-to-butt
