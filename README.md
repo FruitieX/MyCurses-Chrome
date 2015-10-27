@@ -1,4 +1,4 @@
-MyCurses for chrome
+MyCurses for Chrome
 ===================
 
 Replaces occurrences of 'MyCourses' with 'MyCurses'.
