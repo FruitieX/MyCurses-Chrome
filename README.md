@@ -7,7 +7,7 @@ Replaces occurrences of 'MyCourses' with 'MyCurses'.
 
 #### Or:
 
-1. Download the [crx file]((https://github.com/fruitiex/MyCurses-Chrome/blob/master/MyCurses.crx?raw=true))
+1. Download the [crx file](https://github.com/fruitiex/MyCurses-Chrome/blob/master/MyCurses.crx?raw=true)
 
 2. In Chrome, choose Settings > Extensions. Drag MyCurses.crx into the page that appears.
 
